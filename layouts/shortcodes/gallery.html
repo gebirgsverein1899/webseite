@@ -1,0 +1,17 @@
+<figure>
+    {{ $caption := first 1 .Params }}
+    {{ $images := after 1 .Params }}
+    <div class="gallery-container">
+        {{ range $images }}
+            <div>
+                <img src="{{ . }}"
+                /><!-- Closing img tag -->
+            </div>
+        {{ end }}
+    </div>
+    <figcaption>
+        {{ range $caption }}
+            {{ . }}
+        {{ end }}
+    </figcaption>
+</figure>

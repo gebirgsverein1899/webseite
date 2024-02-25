@@ -1,0 +1,15 @@
++++
+title = 'Heimatstube'
+date = 2023-11-29T21:21:54+01:00
+draft = false
++++
+
+Die Heimatstube wurde im November 2012 eröffnet.
+Sie vermittelt Wissenswertes aus der Geschichte unserer Stadt, insbesondere zum Bergbau, dem Kurwesen, der ehemaligen Eisenbahnstrecke im Gottleubatal und den Hochwasserkatastrophen, die Berggießhübel immer wieder heimsuchten.
+Aktuell zeigen wir eine Sonderausstellung mit dem Thema „Holz und Stein im Berggießhübler Bergbau“.
+
+Die Heimatstube befindet sich im Haus des Gastes Berggießhübel, Sebastian-Kneipp-Str. 10.
+Sie ist jeden 1. und 3. Freitag im Monat von 15-18 Uhr geöffnet.
+Darüber hinausgehende Besichtigungen können mit Herrn A. Gierth (Kontakt: 0173 4053872) vereinbart werden.
+
+Der Eintritt ist frei, Spenden für den Erhalt und weiteren Ausbau der Ausstellungen sind erwünscht.

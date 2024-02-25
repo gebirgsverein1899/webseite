@@ -1,0 +1,8 @@
+<nav>
+    <!-- TODO highlight clicked page -->
+    <a {{ if eq .Page.Title "Aktuelles" }}class="current"{{ end }} href="/">Aktuelles</a>
+    <a {{ if eq .Page.Title "Bergknappschaft" }}class="current"{{ end }} href="/bergknappschaft/">Bergknappschaft</a>
+    <a {{ if eq .Page.Title "Gebirgsverein" }}class="current"{{ end }} href="/gebirgsverein">Gebirgsverein</a>
+    <a {{ if eq .Page.Title "Heimatstube" }}class="current"{{ end }} href="/heimatstube">Heimatstube</a>
+    <a {{ if eq .Page.Title "Impressum" }}class="current"{{ end }} href="/impressum">Impressum</a>
+</nav>

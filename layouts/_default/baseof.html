@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/farnwedel.png">
+        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+        <link rel="stylesheet" href="/custom.css">
+        <title>{{ .Site.Title }} / {{ .Page.Title }}</title>
+    </head>
+
+    <body>
+        <header>
+            {{ partial "nav.html" . }}
+            <img class="banner" src="/bild-homepage25.png">
+        </header>
+        {{ block "main" . }}
+        {{ end }}
+        <footer>
+            <p>© 2024 Gebirgsverein 1899 Berggießhübel e.V.</p>
+        </footer>
+    </body>
+</html>
