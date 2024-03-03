@@ -29,5 +29,15 @@ Giesensteiner Straße 14
 
 ## Datenschutz
 
-Die Nutzung dieser Webseite erfolgt ohne Erhebung personenbezogener Daten.
-Es werden keine Verbindungsdaten gespeichert.
+Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
+
+GitHub Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
+United States
+
+Bei Nutzung unserer Webseite werden übliche Verbindungsmetadaten (IP-Adresse,
+Datum und Uhrzeit der Anfrage, Informationen zu Browser und Betriebssystem) an
+den Hoster übertragen.  Wir haben auf diese Daten keinen Zugriff und es findet
+kein Tracking statt.  Auf Ihrem Gerät werden keine Daten, wie etwa Cookies,
+gespeichert.
