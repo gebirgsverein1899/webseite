@@ -1,6 +1,6 @@
 +++
 title = '34. Berggiesshübler Wandertag'
-date = 2023-04-23T20:13:35+02:00
+date = 2024-04-23T20:13:35+02:00
 draft = false
 +++
 
