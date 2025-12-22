@@ -1,7 +1,7 @@
 +++
 title = 'Weihnachtsgruß'
 date = 2024-12-24T14:15:24+01:00
-draft = true
+draft = false
 +++
 
 Liebe Einwohner und Gäste unserer Stadt,
