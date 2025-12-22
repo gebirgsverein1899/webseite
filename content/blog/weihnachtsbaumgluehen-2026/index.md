@@ -1,6 +1,6 @@
 +++
 title = 'Weihnachtsgruß'
-date = 2024-12-24T14:15:24+01:00
+date = 2025-12-22T10:15:24+01:00
 draft = false
 +++
 
